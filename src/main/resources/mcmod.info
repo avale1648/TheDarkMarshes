@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thedarkmarshes",
+  "name": "The Dark Marshes",
+  "description": "The add-on for The Betweenlands which adds different things.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["avale1648"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
